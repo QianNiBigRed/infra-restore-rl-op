@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from road_env import RoadEnv
-from road_agent_Q_learning import RoadAgentQLearning
+from road_agent import RoadAgentQLearning
 
 # 1. Load data
 # ---------- Load SiouxFalls Network ----------
